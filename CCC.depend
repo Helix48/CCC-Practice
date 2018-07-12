@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518588043 source:c:\users\seth hammell\desktop\ccc\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
